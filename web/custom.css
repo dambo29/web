@@ -1,0 +1,69 @@
+body{
+    position: relative;
+}
+
+#profil{
+padding: 50px 0;
+}
+
+#profil{
+    background: #ffffff;
+}
+
+.warna1{
+	color:black;
+}
+
+.warna{
+	color:black;
+}
+
+.tentang {
+ color: black;
+}
+
+.saya{
+	color: black;
+}
+
+.kontak{
+	color:black;
+}
+
+
+body{
+	background: #0386ff;
+}
+.warna2{
+	color:#ffffff;
+}
+
+.warna3 {
+    color:white;
+}
+
+footer {
+    position: absolute;
+    bottom: 20;
+    width: 100px;
+    
+    left:0;
+    right: 0; 
+    padding: 20px;
+    background: #333;
+    color: #e3e3e3;
+
+    width: 100%;
+
+}
+
+footer p {
+    font-size: 18px;
+}
+
+.tess{
+    position: absolute;;
+    top: 1000px;
+    bottom: 135px;
+
+}
